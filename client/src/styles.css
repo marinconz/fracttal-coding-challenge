@@ -5,3 +5,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+@media(max-width: 480px){
+  .heading {
+    font-size: 20px;
+  }
+}
+
